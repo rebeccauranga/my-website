@@ -231,18 +231,21 @@ ul {
 }
 
 #dc-name:hover, #uwg-name:hover, #ew-name:hover, #cm-name:hover {
+  /* visibility: visible; */
   font-size: 22px;
   cursor: pointer;
   color: #bbbaba;
 }
 
 .company-descriptions {
+  /* visibility: hidden; */
   border: 2px rgb(216, 216, 216) solid;
   font-size: 16px;
   padding: 20px;
   margin: 90px 100px 200px 5px;
   color: white;
   width: 250%;
+  height: 50%;
 }
 
 
